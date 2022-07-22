@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides readings and study questions for each session of
+  the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 04321c76-93cb-0875-822e-1cac53f5abab
 ---
